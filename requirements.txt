@@ -18,6 +18,7 @@ scikit-learn
 scipy
 seaborn
 sqlalchemy
+statsmodels
 xlrd
 xlsxwriter
 xlwt
